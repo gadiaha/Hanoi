@@ -1,4 +1,3 @@
-#include "stdafx.h"
 #include <iostream>
 using namespace std;
 
@@ -22,6 +21,5 @@ int main()
 {
 	hanoi_mv(3, 1, 2, 3);
 	
-	system("pause");
 	return 0;
 }
